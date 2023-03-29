@@ -91,3 +91,13 @@
     border-radius: 10px;
     margin: 10px;
 }
+
+.Footer{
+    display: flex;
+    flex-direction: row;
+    border: 5px solid rgb(64, 159, 51);
+    background-color: rgb(64, 159, 51);
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
