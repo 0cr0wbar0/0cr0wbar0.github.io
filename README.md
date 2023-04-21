@@ -1,1 +1,1 @@
-dumping ground for art + small pico-8 thing
+dumping ground for my digital art + small game thing
